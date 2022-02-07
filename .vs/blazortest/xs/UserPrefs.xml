@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4EF51E25-89C5-4236-92D4-0A378EC1BB0F}|Default">
+  <MonoDevelop.Ide.ItemProperties.blazortest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="blazortest/Pages/EmployeeOverview.cs">
+    <Files>
+      <File FileName="blazortest/wwwroot/index.html" Line="1" Column="1" />
+      <File FileName="blazortest/Pages/Index.razor" />
+      <File FileName="blazortest/Shared/MainLayout.razor" />
+      <File FileName="blazortest/Shared/NavMenu.razor" />
+      <File FileName="shared/Country.cs" />
+      <File FileName="blazortest/Pages/EmployeeOverview.razor" Line="36" Column="1" />
+      <File FileName="blazortest/Properties/launchSettings.json" Line="22" Column="118" />
+      <File FileName="blazortest/Pages/EmployeeOverview.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="blazortest" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/d054341/Projects/blazortest/blazortest/Pages/EmployeeOverview.cs" relfile="blazortest/Pages/EmployeeOverview.cs" line="18" column="1" />
+      <Breakpoint file="/Users/d054341/Projects/blazortest/blazortest/Pages/EmployeeOverview.cs" relfile="blazortest/Pages/EmployeeOverview.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

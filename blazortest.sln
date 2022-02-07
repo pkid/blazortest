@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazortest", "blazortest\blazortest.csproj", "{4EF51E25-89C5-4236-92D4-0A378EC1BB0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shared", "shared\shared.csproj", "{35C62745-BE6D-426D-AC09-5E47ADED2DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF51E25-89C5-4236-92D4-0A378EC1BB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF51E25-89C5-4236-92D4-0A378EC1BB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF51E25-89C5-4236-92D4-0A378EC1BB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF51E25-89C5-4236-92D4-0A378EC1BB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C62745-BE6D-426D-AC09-5E47ADED2DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C62745-BE6D-426D-AC09-5E47ADED2DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C62745-BE6D-426D-AC09-5E47ADED2DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C62745-BE6D-426D-AC09-5E47ADED2DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F8FBF8-BBC2-4F38-BBBF-26F4756C3B81}
+	EndGlobalSection
+EndGlobal

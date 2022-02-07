@@ -1,0 +1,10 @@
+/Users/d054341/Projects/blazortest/shared/bin/Debug/netstandard2.1/shared.deps.json
+/Users/d054341/Projects/blazortest/shared/bin/Debug/netstandard2.1/shared.dll
+/Users/d054341/Projects/blazortest/shared/bin/Debug/netstandard2.1/shared.pdb
+/Users/d054341/Projects/blazortest/shared/obj/Debug/netstandard2.1/shared.csproj.AssemblyReference.cache
+/Users/d054341/Projects/blazortest/shared/obj/Debug/netstandard2.1/shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/d054341/Projects/blazortest/shared/obj/Debug/netstandard2.1/shared.AssemblyInfoInputs.cache
+/Users/d054341/Projects/blazortest/shared/obj/Debug/netstandard2.1/shared.AssemblyInfo.cs
+/Users/d054341/Projects/blazortest/shared/obj/Debug/netstandard2.1/shared.csproj.CoreCompileInputs.cache
+/Users/d054341/Projects/blazortest/shared/obj/Debug/netstandard2.1/shared.dll
+/Users/d054341/Projects/blazortest/shared/obj/Debug/netstandard2.1/shared.pdb

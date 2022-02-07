@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = shared
+build_property.ProjectDir = /Users/d054341/Projects/blazortest/shared/
